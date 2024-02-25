@@ -1,0 +1,37 @@
+.service {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 10px;
+    width: 200px;
+    display: inline-block; /* This will make the services stand next to each other */
+  }
+  
+  .service h3 {
+    font-size: 1.2em;
+    margin-bottom: 5px;
+  }
+  
+  .service h4 {
+    color: #666;
+    margin-bottom: 10px;
+  }
+  
+  .service h5 {
+    font-size: 1em;
+    color: #333;
+  }
+  
+  .service button {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    padding: 5px 10px;
+    border-radius: 3px;
+    cursor: pointer;
+  }
+  
+  .service button:hover {
+    background-color: #0056b3;
+  }
+  

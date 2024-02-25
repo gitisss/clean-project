@@ -1,0 +1,39 @@
+/* For AdminHome */
+.link {
+    display: block;
+    margin: 10px 0;
+    color: #007bff; /* Blue color for links */
+  }
+  
+  .business-data {
+    margin-top: 20px;
+  }
+  
+  /* For Login */
+  .login-container {
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    width: 300px;
+  }
+  
+  input {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 10px;
+  }
+  
+  button {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    border-radius: 5px;
+  }
+  
+  button:hover {
+    background-color: #0056b3;
+  }
+  
